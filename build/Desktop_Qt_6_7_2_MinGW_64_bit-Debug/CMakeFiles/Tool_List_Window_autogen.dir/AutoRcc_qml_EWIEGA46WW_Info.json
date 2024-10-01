@@ -1,0 +1,34 @@
+{
+	"BUILD_DIR" : "C:/Users/sirpi/Desktop/Qml/Tool_List_Window/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Tool_List_Window_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/sirpi/Desktop/Qml/Tool_List_Window/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/sirpi/Desktop/Qml/Tool_List_Window/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/sirpi/Desktop/Qml/Tool_List_Window",
+	"CMAKE_SOURCE_DIR" : "C:/Users/sirpi/Desktop/Qml/Tool_List_Window",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/sirpi/Desktop/Qml/Tool_List_Window/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Tool_List_Window_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/sirpi/Desktop/Qml/Tool_List_Window/main.qml",
+		"C:/Users/sirpi/Desktop/Qml/Tool_List_Window/icons/update.png",
+		"C:/Users/sirpi/Desktop/Qml/Tool_List_Window/icons/technologie.png",
+		"C:/Users/sirpi/Desktop/Qml/Tool_List_Window/icons/search.png",
+		"C:/Users/sirpi/Desktop/Qml/Tool_List_Window/icons/vorschau.png",
+		"C:/Users/sirpi/Desktop/Qml/Tool_List_Window/icons/neu.png",
+		"C:/Users/sirpi/Desktop/Qml/Tool_List_Window/icons/schliesen.png",
+		"C:/Users/sirpi/Desktop/Qml/Tool_List_Window/icons/andern.png",
+		"C:/Users/sirpi/Desktop/Qml/Tool_List_Window/icons/loschen.png",
+		"C:/Users/sirpi/Desktop/Qml/Tool_List_Window/icons/tool_manager.png"
+	],
+	"LOCK_FILE" : "C:/Users/sirpi/Desktop/Qml/Tool_List_Window/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Tool_List_Window_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/sirpi/Desktop/Qml/Tool_List_Window/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Tool_List_Window_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/sirpi/Desktop/Qml/Tool_List_Window/qml.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

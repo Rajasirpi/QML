@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icons/neu.png</file>
+        <file>icons/andern.png</file>
+        <file>icons/loschen.png</file>
+        <file>icons/schliesen.png</file>
+        <file>icons/technologie.png</file>
+        <file>icons/tool_manager.png</file>
+        <file>icons/update.png</file>
+        <file>icons/vorschau.png</file>
+        <file>icons/search.png</file>
+    </qresource>
+</RCC>
