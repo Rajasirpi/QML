@@ -1,8 +1,8 @@
 # QML
 A list window created in QT creator with QML
 
- ![Figma_layout](final_layout(2).png)
+ ![Figma_layout](Layout_figma.png)
 
 
 
-  ![Final_Output](final_layout(1).png)
+  ![Final_Output](Final_layout(1).png)
